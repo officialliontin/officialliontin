@@ -85,3 +85,19 @@ journey
       Low:2
 %%{ 'theme': 'default'}%%
 ```
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'rotateCommitLabel': true}} }%%
+gitGraph
+	checkout main
+	commit id: "CVSS Rating"
+  commit id: " "
+	
+  branch Critical
+	commit id: "9.0 - 10.0"
+  branch High
+  commit id: "7.0 - 8.9"
+  branch Medium
+  commit id: "4.0 - 6.9"
+	branch Low
+  commit id: "0.1 - 3.9"
+  ```
