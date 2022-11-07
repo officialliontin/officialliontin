@@ -1,4 +1,4 @@
-```console
+```bash
 zit@mingath:~$ whoami
 
 SYUKIRMAN AMIR
