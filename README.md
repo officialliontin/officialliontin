@@ -75,4 +75,6 @@ zit@mingath:~$ code . MiniGathering0x22.md
 > * ### Ilegal
 ![](https://mermaid.ink/svg/pako:eNqdksFOAjEQhl9lUsJtSXARND14kaNGA5xkPQztdGm225JuVySEd7fdhUQ9KYcmM_3n_zrt9MiEk8Q4U8btxRZ9gKdFYQGGQ3h0xvkmRoUtgtG2WoaDIZCksDUBmuBdRaO9lmHL891nqhIGm2ZOCjamJVDaGD7IJ3e36i7ry_lgPB5nv62ZSEfxgVLqB8V5tOWFo8R9nm-u4pSeyJ4xN7PNdJpfhfEkzxCS-WwyuQpSY0k2YA86J38HAXx7YhRVj-nC_0AA1yv0JYV3zns3jEYPsFm_ki117EijTdKl2SSKJFLd9koacLoXiE6k9XN0okWjG93AqqsDGdciblQuWfppdibqTCo2UdHLB_kkx9ftNJaxmnyNWsZveUzdFixsqaaC8RhK9FXBCnuKddgGtzxYwXjwLWWs3UkMNNdYeqwZV2iauLtD--bcJT99ATDuBSo?bgColor=!white)
 
+# [Hack?]()
+
 ![](?bgColor=!white)
