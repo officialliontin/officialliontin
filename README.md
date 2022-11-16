@@ -69,5 +69,10 @@ zit@mingath:~$ code . MiniGathering0x22.md
 # [Bug?]()
 > * ### Bagaimana seseorang dapat menemukan celah keamanan?
 ![](0x22/2.png)
+> * ### Secara legal
+![](https://mermaid.ink/svg/pako:eNqdksFuwjAMhl_FCuJWJFYGm3LYZRw3aQJOozuYxClR06RKUzGEePclLUjbThuHSI5__1-cOCcmnCTGmTLuIPboA7ysCgswHsOzM863MSpsEYy21TocDYEkhZ0J0AbvKpoctAx7njefqUoYbNslKdiZjkBpY_gonz3cq4dsKOej6XSa_bZmIh3FR0qpHxTn0ZZXjhKPeb67iVN6InvB3C1283l-E8aTvEBI5ovZ7CZIjSXZgAPosvk7CODbE6OoBkwf_gcCuN2gLyl8cD64YTJ5gt32jWypY0cabZKuzSZRJJHqblDSgNO9QPQibV-jEy0a3eoWNn0dyLhWMVG5ZInP1zuod6itwSYNOEn9gFjGavI1ahn_4ym1WbCwp5oKxmMo0VcFK-w51mEX3PpoBePBd5SxrpEYaKmx9FgzrtC0MdugfXfuuj9_ARB_AtE?bgColor=!white)
+
+> * ### Ilegal
+![](https://mermaid.ink/svg/pako:eNqdksFOAjEQhl9lUsJtSXARND14kaNGA5xkPQztdGm225JuVySEd7fdhUQ9KYcmM_3n_zrt9MiEk8Q4U8btxRZ9gKdFYQGGQ3h0xvkmRoUtgtG2WoaDIZCksDUBmuBdRaO9lmHL891nqhIGm2ZOCjamJVDaGD7IJ3e36i7ry_lgPB5nv62ZSEfxgVLqB8V5tOWFo8R9nm-u4pSeyJ4xN7PNdJpfhfEkzxCS-WwyuQpSY0k2YA86J38HAXx7YhRVj-nC_0AA1yv0JYV3zns3jEYPsFm_ki117EijTdKl2SSKJFLd9koacLoXiE6k9XN0okWjG93AqqsDGdciblQuWfppdibqTCo2UdHLB_kkx9ftNJaxmnyNWsZveUzdFixsqaaC8RhK9FXBCnuKddgGtzxYwXjwLWWs3UkMNNdYeqwZV2iauLtD--bcJT99ATDuBSo?bgColor=!white)
 
 ![](?bgColor=!white)
