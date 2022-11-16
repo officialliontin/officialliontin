@@ -38,8 +38,10 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![zone-H](https://miro.medium.com/max/1400/1*DT4JfFtPNnM4IbzWgOcrPw.png)
 > * ### Berdasarkan data dari zone-H pada tahun 2021 terjadi kasus peretasan di web pemerintahan sebanyak 1122. Data ini bisa saja berbeda tergantung referensi mana yang dipakai dalam pengumpulan data.
 ![zone-H](https://miro.medium.com/max/640/1*GCYGApMlYegefAh861Wkzw.png)
-> * ### Dari hasil pengumpulan data dapat dilihat bahwa provinsi Jawa Tengah merupakan paling tertinggi kasus peretasan pada tahun 2021
+> * ### Dari hasil pengumpulan data dapat dilihat bahwa provinsi Jawa Tengah merupakan paling **tertinggi** kasus peretasan pada tahun 2021
 ![zone-H](https://miro.medium.com/max/1400/1*9JGR6zQ0TobF2i3jEiad4A.png)
+> * ### Berikut merupakan Rekapan Data berdasarkan bulan pada tahun 2021
+![zone-H](https://miro.medium.com/max/1400/1*BeCGLXP6wtIcAJ4n_kH3Cg.png)
 
 
 ![](?bgColor=!white)
