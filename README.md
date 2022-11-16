@@ -76,5 +76,8 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![](https://mermaid.ink/svg/pako:eNqdk19r2zAUxb-KUCh04JRETv_gh0LbPOxhg9HmqfIeruUrx7MsBVleE5p-98lSMtKtHWseDLLOOT8fXeFnKkyJNKNSmSexBOvI_ZdcE3JyQu6MMrbzq1znTtW6eXAbhaRECb1ypHPWNDh-qku3zNhqPbiEgq6boySF6pHIWqlsxNLLmbxMoj0bTSaT5M9oIoZPZSMp5SuKsaCrPUeKK8aKoziVRdQ7zPSiOD9nR2EsljsIluwiTY-CtFChdhBBu5f_BxFyMGIQTcSE5UcgBPhnH0H7Pctiejy-JtvpGfmKCpq-Ab0lBf-Guup_1KAHW7yMkC5IsLPBrquq1xACgp8ujFHdp0jto1kEs5jym2F7d-JDhfHbV0ru9krK795RZnz-lzL10lArDbWwjadAfnrbV6GSv7_oZG87Y6n0PXFIzv4hYqgWy0Cc0CxOCDSouoMtWfOFz4AmpX_usasbczhaH1yH4IYvoEHzM16Q700T2qJtoS79v_o8FM2pW2KLOc38sgTb5DTXL94HvTMPGy1oJkF1mNB-VYLDeQ2Vhfb37gr0ozH795dfJYdZVQ?bgColor=!white)
 
 # [Hack?]()
+> __Note__
+> SEJARAH [SQL INJECTION](http://phrack.org/issues/54/8.html)
+> PENEMU  [SQL INJECTION](https://www.blackhat.com/us-13/speakers/Jeff-Forristal.html)
 
 ![](?bgColor=!white)
