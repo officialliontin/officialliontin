@@ -52,7 +52,15 @@ zit@mingath:~$ code . MiniGathering0x22.md
 >
 > Atau bisa lihat pada Laporan Tahunan Monitoring Keamanan Siber [BSSN](https://cloud.bssn.go.id/s/Lyw8E4LxwNiJoNw) tahun 2021 pada halaman **63**
 
+# [ROAD MAP APLIKASI]()
+> __Warning__
+> 
+> ### Sebelum kita mengenal lebih jauh tentang aksi-aksi peretasan yang marak terjadi, alangkah baiknya kita cari tau dulu kenapa sampai terciptanya celah tersebut
 
-![](?bgColor=!white)
+> * ### Seharusnya
+![](https://mermaid.ink/svg/pako:eNqdk8Fu2zAMhl-FUNCbA6RO0w5CsctyGVZgxbpdFvegSJQjRJYMSV4X1H33SZbdeT0MW24U_98fRYp-JtwKJJRIbZ_4gbkAd18qA3BxAR-sts7HqDJV0MocH8JJIwiUrNMBfHD2iMsnJcKBlu3P5OKaeb9FCXvdIUilNV2U65sreVNkO12sVqvi7acFT6XoQkr5B8U6ZuqJI_m7styfxakdohkxl9f7zaY8C-NQjBAU5fV6fRakYTWawDJoPPw7CGA2YsaPGTOE_wMBtrt3NthwavGR0gyA5fI97Hdb9Ko2KTtdNeV5zP9Abdts7zA1BRxuk9h_8-jgownoJOPYi91X9EGZOpnzIw5VJ_udrRXvAXf3kR-dyRaHOyDFUK7__KkHmS4pOh6UNT55hnccXDhzVeb3cq7GtcwdzZXLSRm7mmvlpI3LOtfWf9GuXrW8nHNt86rlZSEFadA1TIn4tz2ncVQkHLDBitAYCuaOFanMS_SxLtiHk-GEBtdhQbpWsIBbxWrHGkIl0z5mW2a-WzudX34BnupPhw?bgColor=!white)
+
+> * ### Yang Terjadi
+![](https://mermaid.ink/svg/pako:eNqdkjFvwyAQhf8KIsrmSIndJBVDl2bMUDWdGnfAcDjIGCzATaMo_70Q263bqc12997xcYJ3xsxwwAQLZY7sQK1H2-dcIzSdokejjHWhynXuldTVzp8UIA6Ctsoj562pYHaU3B9I2nzEKaaocxsQqFAtICGVIpM0W9-JddKNk8l8Pk9-H01YvIpMhBA_KMZSXQ4cwe7TtLiJU1oA3WMWq2K5TG_CWOA9BHi6yrKbIDUtQXvagfrm7yCERk9MWdVhruV_IIjun6zxxp8aeCOkA6DZ7AEV-w04WeqoDqtGnQX9HZRpuvEWosj3L-C81GUU-8-KOkQ6b5mXRrvoXT8g1yFU25CjcbK-czXvE9UtM3YWg9MvNPbSwetzNvayL6_LDk5wDbamkofAn-M75NgfoIYck1Byaqsc5_oS5mjrze6kGSbetpDgtuHUw0bS0tIaE0GVC2pD9asxQ3_5BGzzJSs?bgColor=!white)
 
 ![](?bgColor=!white)
