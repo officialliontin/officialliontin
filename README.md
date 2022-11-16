@@ -66,4 +66,8 @@ zit@mingath:~$ code . MiniGathering0x22.md
 > * ### Hasilnya
 ![](0x22/1.png)
 
+# [Bug?]()
+> * ### Bagaimana seseorang dapat menemukan celah keamanan?
+![](0x22/2.png)
+
 ![](?bgColor=!white)
