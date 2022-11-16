@@ -63,4 +63,7 @@ zit@mingath:~$ code . MiniGathering0x22.md
 > * ### Yang Terjadi
 ![](https://mermaid.ink/svg/pako:eNqdkjFvwyAQhf8KIsrmSIndJBVDl2bMUDWdGnfAcDjIGCzATaMo_70Q263bqc12997xcYJ3xsxwwAQLZY7sQK1H2-dcIzSdokejjHWhynXuldTVzp8UIA6Ctsoj562pYHaU3B9I2nzEKaaocxsQqFAtICGVIpM0W9-JddKNk8l8Pk9-H01YvIpMhBA_KMZSXQ4cwe7TtLiJU1oA3WMWq2K5TG_CWOA9BHi6yrKbIDUtQXvagfrm7yCERk9MWdVhruV_IIjun6zxxp8aeCOkA6DZ7AEV-w04WeqoDqtGnQX9HZRpuvEWosj3L-C81GUU-8-KOkQ6b5mXRrvoXT8g1yFU25CjcbK-czXvE9UtM3YWg9MvNPbSwetzNvayL6_LDk5wDbamkofAn-M75NgfoIYck1Byaqsc5_oS5mjrze6kGSbetpDgtuHUw0bS0tIaE0GVC2pD9asxQ3_5BGzzJSs?bgColor=!white)
 
+> * ### Hasilnya
+![](0x22/1.png)
+
 ![](?bgColor=!white)
