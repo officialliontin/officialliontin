@@ -23,7 +23,7 @@ zit@mingath:~$ code . MiniGathering0x22.md
 # Disclaimer
 > * ### Kerentanan keamanan adalah realitas teknologi modern. Untungnya Daftar ini menyoroti bahwa peretas membantu mengurangi risiko paling serius bagi bisnis Anda..
 
-# 10 Jenis Kerentanan Paling Berdampak dan Dihargai.
+# [10 Jenis Kerentanan Paling Berdampak dan Dihargai.](https://www.hackerone.com/top-ten-vulnerabilities)
 > * ### Berikut adalah sorotan dan temuan utama dari 10 Jenis Kerentanan Paling Berdampak dan Dihargai dari HackerOne
 
 
@@ -33,7 +33,7 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![](https://mermaid.ink/svg/pako:eNptkEFPhDAQhf_KpAnhgoSNRl2umOgBL27iqZeBjtAsbTfdQWMI_92WZQ8qPX7zvZf0TaJ1ikQpkmTSVnMJE6SD62r6pCEtIVXUjF2aQco9GYqkwTNF0Gl-9njqA5tS7xiZKmeM5hqbJct-pHmGOUmkvcrSSm57ao9uZDCo7QKWGGhVghTV--EAb8jadlJIC-H9ukOkki-XxqNte6i8Zt3i8K9snxdwA7siL65da-JFd_1G-cPiP-b7P_orKT2ajcDdEri_BCSveu2-Ntwi3wX3NroiE4Z8-L8K00_RlWIZWIpoKvTHWDgHD0d2h2_bivIDhzNlYjypMPWTxs6jWen8A1WpkCQ?bgColor=!white?bgColor=!white)
 
 
-# ARSIP KASUS PERETASAN WEB PEMERINTAH INDOENSIA
+# [ARSIP KASUS PERETASAN WEB PEMERINTAH INDOENSIA](https://medium.com/@liontin/investigating-web-defacement-in-indonesia-government-website-6fbcfa4ebdf9)
 > * ### Berikut adalah List domain web pemerintahan yang berhasil diretas pada tahun 2021.
 ![zone-H](https://miro.medium.com/max/1400/1*DT4JfFtPNnM4IbzWgOcrPw.png)
 > * ### Berdasarkan data dari zone-H pada tahun 2021 terjadi kasus peretasan di web pemerintahan sebanyak 1122. Data ini bisa saja berbeda tergantung referensi mana yang dipakai dalam pengumpulan data.
@@ -42,6 +42,9 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![zone-H](https://miro.medium.com/max/1400/1*9JGR6zQ0TobF2i3jEiad4A.png)
 > * ### Berikut merupakan Rekapan Data berdasarkan bulan pada tahun 2021
 ![zone-H](https://miro.medium.com/max/1400/1*BeCGLXP6wtIcAJ4n_kH3Cg.png)
+> __Note__
+>
+> Atau bisa lihat pada Laporan Tahunan Monitoring Keamanan siber [BSSN](https://cloud.bssn.go.id/s/Lyw8E4LxwNiJoNw) tahun 2021 pada halaman **63**
 
 
 ![](?bgColor=!white)
