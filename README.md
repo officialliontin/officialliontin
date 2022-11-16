@@ -46,6 +46,8 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![zone-H](https://miro.medium.com/max/1400/1*9JGR6zQ0TobF2i3jEiad4A.png)
 > * ### Berikut merupakan Rekapan Data berdasarkan bulan pada tahun 2021
 ![zone-H](https://miro.medium.com/max/1400/1*BeCGLXP6wtIcAJ4n_kH3Cg.png)
+> * ### Pada tahun 2021 berdasarkan dataset yang diambil dari situs [zone-h.org](http://zone-h.org/) Kasus peretasan di website pemerintahan indonesia banyak terjadi pada bagian Subdomain dengan total sebanyak 1088 di berbagai provinsi.
+![zone-H](https://miro.medium.com/max/1400/1*0YwVJPAzu6SZNCqanfQHdw.png)
 > __Note__
 >
 > Atau bisa lihat pada Laporan Tahunan Monitoring Keamanan Siber [BSSN](https://cloud.bssn.go.id/s/Lyw8E4LxwNiJoNw) tahun 2021 pada halaman **63**
