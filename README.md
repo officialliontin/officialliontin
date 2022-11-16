@@ -76,14 +76,17 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![](https://mermaid.ink/svg/pako:eNqdk19r2zAUxb-KUCh04JRETv_gh0LbPOxhg9HmqfIeruUrx7MsBVleE5p-98lSMtKtHWseDLLOOT8fXeFnKkyJNKNSmSexBOvI_ZdcE3JyQu6MMrbzq1znTtW6eXAbhaRECb1ypHPWNDh-qku3zNhqPbiEgq6boySF6pHIWqlsxNLLmbxMoj0bTSaT5M9oIoZPZSMp5SuKsaCrPUeKK8aKoziVRdQ7zPSiOD9nR2EsljsIluwiTY-CtFChdhBBu5f_BxFyMGIQTcSE5UcgBPhnH0H7Pctiejy-JtvpGfmKCpq-Ab0lBf-Guup_1KAHW7yMkC5IsLPBrquq1xACgp8ujFHdp0jto1kEs5jym2F7d-JDhfHbV0ru9krK795RZnz-lzL10lArDbWwjadAfnrbV6GSv7_oZG87Y6n0PXFIzv4hYqgWy0Cc0CxOCDSouoMtWfOFz4AmpX_usasbczhaH1yH4IYvoEHzM16Q700T2qJtoS79v_o8FM2pW2KLOc38sgTb5DTXL94HvTMPGy1oJkF1mNB-VYLDeQ2Vhfb37gr0ozH795dfJYdZVQ?bgColor=!white)
 
 # [Hack?]()
-> * ### Sebagai ontoh isini Hacker menemukan celah SQL INJECTION
->  __Note__
->  
->  SQL Injection adalah sebuah serangan yang memanfaatkan celah pada aplikasi web yang melakukan Query ke dalam Database.
-
+> * ### Sebagai contoh disini Hacker menemukan celah SQL INJECTION
 > __Warning__
 > 
 > [SEJARAH SQL INJECTION](http://phrack.org/issues/54/8.html) dan
 > [PENEMU SQL INJECTION](https://www.blackhat.com/us-13/speakers/Jeff-Forristal.html)
 
+>  __Note__
+>  
+>  SQL Injection adalah sebuah serangan yang memanfaatkan celah pada aplikasi web yang melakukan Query ke dalam Database.
+
+
+![](https://mermaid.ink/svg/pako:eNqdksFuGjEQhl9lZISUSAuCJYTKh17KIZWolJZDpLA9zK7Hi7teG9nepgh493jZJUp6arnN2PN__8zYB1ZYQYwzqe1LsUUXYPUjMwDDIXyx2jofo8xkQStTrcNeEwiS2OgAPjhb0ehFibDl6e5PW1Vo9H5JEnLdEEilNR-ks8WdXCRdOR9MJpPkb2lStFZ8IKX8QLEOTXnhyOJTmuZXcUpHZHrM9D6fz9OrMI5EDyGR3s9mV0FqLMkE7EB98u8ggHcrxqLqMOfwfyCAm4coIfeT804No9FnOE7H8I00Vk2FBr6aX1R5BevvqyPkhyfKYU3uN7lTFF3GOMvSMTw668l_1BSbmyUGzNHTbWfUULsLEJuV8oGMMmWPbK_71z4TZ5FIrlbRAk0knWW9213bpCmbetfork9pXY1eHUGwhNVRh0rEP31oR81Y2FJNGeMxFOiqjGXmFOuwCXa9NwXjErWnhDU7gYGWCkuH9dvpDs2ztZf89ApntRnE?bgColor=!white)
+![](?bgColor=!white)
 ![](?bgColor=!white)
