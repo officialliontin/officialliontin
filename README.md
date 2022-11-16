@@ -34,6 +34,10 @@ zit@mingath:~$ code . MiniGathering0x22.md
 
 
 # [ARSIP KASUS PERETASAN WEB PEMERINTAH INDOENSIA](https://medium.com/@liontin/investigating-web-defacement-in-indonesia-government-website-6fbcfa4ebdf9)
+> __Warning__
+> 
+> Berikut Merupakan Data Investigasi Secara Mandiri **(PRIBADI)**
+
 > * ### Berikut adalah List domain web pemerintahan yang berhasil diretas pada tahun 2021.
 ![zone-H](https://miro.medium.com/max/1400/1*DT4JfFtPNnM4IbzWgOcrPw.png)
 > * ### Berdasarkan data dari zone-H pada tahun 2021 terjadi kasus peretasan di web pemerintahan sebanyak 1122. Data ini bisa saja berbeda tergantung referensi mana yang dipakai dalam pengumpulan data.
@@ -44,7 +48,7 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![zone-H](https://miro.medium.com/max/1400/1*BeCGLXP6wtIcAJ4n_kH3Cg.png)
 > __Note__
 >
-> Atau bisa lihat pada Laporan Tahunan Monitoring Keamanan siber [BSSN](https://cloud.bssn.go.id/s/Lyw8E4LxwNiJoNw) tahun 2021 pada halaman **63**
+> Atau bisa lihat pada Laporan Tahunan Monitoring Keamanan Siber [BSSN](https://cloud.bssn.go.id/s/Lyw8E4LxwNiJoNw) tahun 2021 pada halaman **63**
 
 
 ![](?bgColor=!white)
