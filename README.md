@@ -66,7 +66,7 @@ zit@mingath:~$ code . MiniGathering0x22.md
 > * ### Hasilnya
 ![](0x22/1.png)
 
-# [Bug?]()
+# [Bug?](https://sl4x0.github.io/research/what-is-pentester/)
 > * ### Bagaimana seseorang dapat menemukan celah keamanan?
 ![](0x22/2.png)
 > * ### Secara legal
