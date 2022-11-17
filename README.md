@@ -144,7 +144,6 @@ SELECT * FROM admin WHERE nama='xxx' OR 1=1--{spasi}' AND pass='hacker'
 ![](0x22/8.png)
 ```sql
 -- Logic SQL 
--- Bypass
 SELECT * FROM admin WHERE nama='xxx' OR 1=1
 ```
 ![](https://mermaid.ink/svg/pako:eNqdklFrwjAQx79KiAgKFWydOgIbyHTswW2gE2R2D9fmosU0kTTFDet3X2Pr2Pa0-XZ3___9cpfkQGPNkTIqpN7HGzCWTGehIqTZJHdaapOVUahCKxO1ndsPiYSjgFxaklmjt9jZJ9xuWLB7d65YQpaNUZBI5khEIiVrBL3hlRh6lZ01ut2u97vVi91RrCGE-EHRBtT6zBHxdRBEF3HWBlHVGH8Q9fvBRRiDvIYgDwa93kWQFNaoLFSgOvk7iJBvVwzxtsKcwv9AiL9qLeaT2dPocdJ-Y6wikE7nlhT3o-l8UsBquVw6xS3t6lHredYu83pktxOJqo6X2WJSEL7yb_yKleNJrhqLB8gSWYiDsx1L_fQa1KMpmhQSXn6-g5sppHaDKYaUlSEHsw1pqI6lD3Kr5x8qpkyAzNCj-Y6DxXECawPpV3UH6lXrc378BAFg-Eo?bgColor=!white)
