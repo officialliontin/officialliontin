@@ -88,5 +88,9 @@ zit@mingath:~$ code . MiniGathering0x22.md
 
 
 ![](https://mermaid.ink/svg/pako:eNqdksFuGjEQhl9lZISUSAuCJYTKh17KIZWolJZDpLA9zK7Hi7teG9nepgh493jZJUp6arnN2PN__8zYB1ZYQYwzqe1LsUUXYPUjMwDDIXyx2jofo8xkQStTrcNeEwiS2OgAPjhb0ehFibDl6e5PW1Vo9H5JEnLdEEilNR-ks8WdXCRdOR9MJpPkb2lStFZ8IKX8QLEOTXnhyOJTmuZXcUpHZHrM9D6fz9OrMI5EDyGR3s9mV0FqLMkE7EB98u8ggHcrxqLqMOfwfyCAm4coIfeT804No9FnOE7H8I00Vk2FBr6aX1R5BevvqyPkhyfKYU3uN7lTFF3GOMvSMTw668l_1BSbmyUGzNHTbWfUULsLEJuV8oGMMmWPbK_71z4TZ5FIrlbRAk0knWW9213bpCmbetfork9pXY1eHUGwhNVRh0rEP31oR81Y2FJNGeMxFOiqjGXmFOuwCXa9NwXjErWnhDU7gYGWCkuH9dvpDs2ztZf89ApntRnE?bgColor=!white)
+> * ### Normal Login
+![](0x22/3.png)
+> * ### Login dengan Injeksi SQL
+![](0x22/4.png)
 ![](?bgColor=!white)
 ![](?bgColor=!white)
