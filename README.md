@@ -169,5 +169,5 @@ SELECT * FROM admin WHERE nama='xxx' OR 1=1
 > * ### Broken
 ![](0x22/11.png)
 # MINDMAPS 
-![]([0x22/11.png](https://blog.it-securityguard.com/pbbt.svg))
+![link]([0x22/11.png](https://blog.it-securityguard.com/pbbt.svg))
 ![](?bgColor=!white)
