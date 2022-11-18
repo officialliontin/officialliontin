@@ -153,7 +153,7 @@ SELECT * FROM admin WHERE nama='xxx' OR 1=1
 > 
 > **Broken Access Control** atau biasa disebut (BAC) mengacu ke sistem control yang mengakses informasi dan fungsionalitasnya. Access control yang bermasalah memungkinkan hacker untuk melewati proses autorisasi serta melakukan hal-hal yang biasanya hanya dapat dilakukan oleh admin.
 
-> * ### Seharusnya
+> * ### Insecure Direct Object References **(IDOR)**
 ![](https://mermaid.ink/svg/pako:eNqdk11r2zAYhf-KUChs4EAst00RbCVNylbSJZCQi87qhSy9SkxkKcgyTWn63-ePuKQNHSV30jnnfXwk4RcsrARMsdL2Say48-h-xgxCZ2doaLV1eblihnmdmvXcP2tAEhQvtEe5d3YN3adU-hUlm22VEprn-QgUSnQBSKVa0w6J-ueqHzRx2un1esHH0UBUn6IdpdQ7inXcLFuOEleEJCdxlg7A7DHhZXJxQU7COJB7CEhyGUUnQTK-BON5A9pvvg5C6OCKuVg3mHr5dUgYx_fTX3fDx0dKaXWobvcn4vG3wXgx-V5pNY8ZXhtJPBj9uZs0egGtLOLF_HZWqc0rMZPU-m44W4x2KAmP_bAJPNzOS78M_B4Mx02kLdF6JL5O5Y8wivp792g6isfT2c2grtVe6aF_XhN6W0IOEsyIw47i8wqi9I4qvB8m_20gBPmkQXWOLdpNpnUIBzgDl_FUlj_hS_XADPsVZMAwLZeSuzXDzLyWOV54O382AlPFdQ4BLjaSexilfOl49qZuuPlrbbt__QfQN0d3?bgColor=!white)
 > * ### POC 1
 ![](https://mermaid.ink/svg/pako:eNqdk91q4zAQhV9FKAS24EAst00RbEs2LrRktwWHXGytXsj6SUxkKcgybUn77rWtOCQbupTcSeec-WbkwRvIDBcQQ6nMC1tS68DvhGgA-n0wMcrYsj4RTZzK9Wrm3pQAXEhaKQdKZ81KDF5y7pYYrV-bFFO0LGMhQaYqAWSuFO6haHQuR4GP495wOAz-LQ1Y0wr3pJQHFGOpXnQcya4Qyk7iLKwQeosJL7OLC3QSxgq-hQiOLqPoJEhBF0I76kHby_dBAOx9YspWHtMevw8J0_Q-fkyenzHGzZsGg2tA0x_j6fzhrNFaHNG0NbJ0HP-5f_B6JTqZpfPZbdKofklEZ63-Pknm8TvIwmM_9IG_t7ParwN348nUR7ohOg-lNzn_GUbRaOseVUfp9DH5NW7H8tvdd8_b-uErQjufaLY_H_u6Pau9o_aHxeg_3RlDB919eXiYgAEshC1ozutfb9OslUC3FIUgENdHTu2KQKI_6hytnJm9aQaxpKoUAazWnDoR53RhabFT11Q_GdPdPz4BirdDSw?bgColor=!white)
