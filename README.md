@@ -170,5 +170,6 @@ SELECT * FROM admin WHERE nama='xxx' OR 1=1
 ![](0x22/11.png)
 # MINDMAPS 
 https://blog.it-securityguard.com/pbbt.svg
+
 https://gowthams.gitbook.io/bughunter-handbook/mindmaps
 ![](?bgColor=!white)
