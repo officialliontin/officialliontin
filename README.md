@@ -10,7 +10,7 @@ SYUKIRMAN AMIR
                 - CTF Player
                 - Bug Hunter
 		
-	IG   :  @hackrecord
+	Instagram -> @hackrecord -> Twitter -> @iamliontin -> Medium.com/@liontin -> Me.progrez.cloud/@iluv
 ```
 ```console
 zit@mingath:~$ ls -la
