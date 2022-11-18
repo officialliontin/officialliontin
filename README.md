@@ -162,6 +162,11 @@ SELECT * FROM admin WHERE nama='xxx' OR 1=1
 ![](0x22/9.png)
 > * ### POC 2
 ![](https://mermaid.ink/svg/pako:eNqdk91q4zAQhV9FKBS24IAtt00RpEs2DmxJ24BDCrtWL2T9JCayHGSZprR999qWXbzbmxJfjeYcfTOawa-QFVxADKUqntmOGgvuYqIBODsD80IVpqwjoolVmd6v7YsSgAtJK2VBaU2xF-PnjNsdRodj42KKlmUkJEhVJYDMlMIjFE4u5MRzdjzyfd_7_6rHmlJ4JKX8h1IYqrc9R7JrhNKTOFsjhO4wwVV6eYlOwhjBO4jg6CoMT4LkdCu0pQ7UHb4PAmAwYsr2DtOG34cESXIbreKnJ4xx86bx-AbQ5MdsuXk4b3ItjmgKptMbkCaz6P72weUr0adZslkv4ibrlkR02nLe5vEmegNp8FUPnOHPYl3rteFu9bhoDP1EhipKfmZ8GtTfwPGFESbLVfxr1jbndjxUL1qGf0ToUyeaDbtkQfJ7Nl-6PvtJuOus1toWwnDSqfXlYfljqyPf4Vv92I6mqw89mAuT04zXv9drszoC7U7kgkBch5yaPYFEv9c-Wtli_aIZxJKqUniwOnBqRZTRraH5Z_ZA9d-i6M_vH5bCPD8?bgColor=!white)
-> * ### Session Management 
+> * ### Broken Authentication dan Session Management
+> Broken Authentication dan Session Management merupakan salah satu dari beberapa serangan yang dapat dilakukan oleh seseorang yang berniat jahat, biasa disebut dengan istilah hijackers, dengan memanfaatkan beberapa kelemahan pada fungsi authentification dan session management. Seringkali fungsi dari aplikasi yang berkaitan dengan authentification dan session management tidak diimplementasikan dengan tepat dan sempurna, dalam hal ini dapat menyebabkan aplikasi rentan untuk diserang dengan memanfaatkan passwords, session token, dll
+> * ### Logic
+![](0x22/10.png)
+> * ### Broken
+![](0x22/11.png)
 ![](?bgColor=!white)
 ![](?bgColor=!white)
